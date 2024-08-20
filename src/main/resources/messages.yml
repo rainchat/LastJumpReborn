@@ -1,0 +1,37 @@
+Messages:
+  prefix: '&7[&dLastJump&7]'
+  help: '&сThe commands was specified incorrectly, you did not write the name of the arena'
+  no-command-permission: "&cYou don't have the rights to use this command"
+  no-permission: You don't have enough rights to do this
+  player-offline: '&7Player &b{0} &7 is offline.'
+  not-player: '&cYou have to be a player to do that!'
+  join: '&7Successfully join to &a{0}'
+  leave: '&aYou have left the arena.'
+  already-in-arena: "&cYou're already in the arena! You can't go into another one!"
+  full-arena: '&cThe arena is unavailable! (The game has already started)'
+  not-in-arena: "&cYou're not in the arena, so you can't get out of it!"
+  start: '&7The game will start in:.'
+  score-count: "&7You're holding up well: &e%arena_score_min% &7min. &e%arena_score_sec%&7sec."
+  prepare-to-jump: '&aJump to survive!'
+  win: '&7You &won &7, you jumped the best! Your score: &e%arena_score_min% &7min. &e%arena_score_sec% &7sec.'
+  lose: '&7You & lost &7, your life was on the verge of death! Your score: &e%arena_score_min% &7min. &e%arena_score_sec% &7sec.'
+  speed: '&7Speed increased: &a{0}&7!.'
+  create: "&aThe arena has been successfully created! Don't forget to install platforms & failZone!"
+  no-platform: '&7The platform size should be &c&l2x2x1&7 blocks!'
+  remove: '&7You remove the arena &c{0}.'
+  no-arena: '&cThere is no arena with that name &e{0}&c!'
+  set-speed: '&7The speed has been successfully set - &a{0}'
+  set-select: '&7The arena has been successfully installed &a{0}'
+  set-speedinc: '&7Arena speed increase has been successfully installed &a{0}'
+  set-min-players: '&7The minimum number of players has been successfully set &a{0}'
+  set-max-players: '&7The maximum number of players has been successfully set &a{0}'
+  set-set-fail-region: '&7The affected area has been successfully established: &a{0}'
+  arena-stats-title: '&7The best players in the arena %arena_name%'
+  arena-stats-score: '&c{0}&7. %player_name%: &a%arena_score_min% &7min. &a%arena_score_sec%
+    &7sec.'
+  player-stats-title: '&7Your stats in the arenas'
+  player-stats-score: '&c{0}&7. %arena_name%: &a%arena_score_min% &7min. &a%arena_score_sec%
+    &7sec.'
+  update-top: '&7Arena tops have been successfully updated'
+  set-leave-arena: '&aYou have successfully set the exit point of the arena!'
+  not-build: '&cThe arena is not fully built, please contact the administrator!'

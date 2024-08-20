@@ -1,0 +1,17 @@
+name: LastJump
+version: ${project.version}
+main: com.rainchat.lastjump.LastJump
+api-version: 1.14
+authors: [ rain_chat ]
+softdepend:
+  - PlaceholderAPI
+
+permissions:
+  lastjump.user.*:
+    description: all user commands
+    default: op
+    children:
+      lastjump.user.join: true
+      lastjump.user.leave: true
+      lastjump.user.top: true
+      lastjump.user.stats: true
